@@ -355,6 +355,10 @@ The **tone library (using timer 2) is still available**. You can use it alternat
 <br/>
 
 # Revision History
+### Version 3.8.0 - Major content contribution by Jörg Riechardt
+- autodetect repeatrate for precise detection of repetition and release
+- improve RC5 recognition
+
 ### Version 3.7.0 - Major content contribution by Jörg Riechardt
 - Support RC6A20 and RC6A28.
 - Sending S100 is not supported.
